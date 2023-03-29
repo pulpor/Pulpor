@@ -4,19 +4,18 @@
 <br><br>
 ### acesse meu <a href="https://pulpor.github.io/pulpor.dev">currículo</a> 👨‍🎓<br><br> 
 
-- 🔭 hoje eu trabalho com front-end
-- 🌱 estudando análise de dados 
+- 🔭 em busca da primeira chance
+- 🌱 estudando análise de dados e desenvolvimento de softwares
 - 📫 contate-me no e-mail: 'pulppor@hotmail.com' or 'pulppor@gmail.com'
 - 😄 pronouns: ele/dele
 - 🍊 fun fact: <b><font color="#DE6004">laranja</font></b> é minha cor preferida!
 
 <br>
-<!-- api caiu 
 <div align="center">
   <a href="https://github.com/pulpor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pulpor&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulpor&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div> -->
+</div> 
 
 <div style="display: inline_block"><br>
 
