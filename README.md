@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6f0&size=34&center=true&vCenter=true&width=1000&lines=olá+mundo!+eu+sou+leonardo+pulpor.+👋;procuro+uma+vaga+de+front-end+jr.;ou+analista+de+dados.+🎲+;prometo+não+decepcionar!+rs.+;%29)](https://git.io/typing-svg)
 <br><br>
-### acesse meu <a href="[https://pulpor.github.io/pulpor.dev](https://portfolio-pulpor.vercel.app)">currículo</a> 👨‍🎓<br><br> 
+### acesse meu <a href="https://portfolio-pulpor.vercel.app">currículo</a> 👨‍🎓<br><br> 
 
 - 🔭 em busca da primeira chance
 - 🌱 estudando análise de dados e desenvolvimento de softwares
