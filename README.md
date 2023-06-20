@@ -1,6 +1,6 @@
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6f0&size=34&center=true&vCenter=true&width=1000&lines=olá+mundo!+eu+sou+leonardo+pulpor.+👋;procuro+uma+vaga+em+front-end+;ou+em+análise+de+dados.+🎲;%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6f0&size=34&center=true&vCenter=true&width=1000&lines=olá+mundo!+eu+sou+leonardo+pulpor.+👋;procuro+uma+vaga+em+front-end+;ou+em+análise+de+dados.+🎲)](https://git.io/typing-svg)
 <br><br>
 ### acesse meu <a href="https://portfolio-pulpor.vercel.app" target="_blank">currículo</a> 👨‍🎓<br><br> 
 
