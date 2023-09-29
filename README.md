@@ -1,14 +1,13 @@
-<br>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6f0&size=34&center=true&vCenter=true&width=1000&lines=olá+mundo!+eu+sou+leonardo+pulpor.+👋;procuro+uma+vaga+em+front-end+;ou+em+análise+de+dados.+🎲)](https://git.io/typing-svg) -->
 
-<br><br>
- <h1>👉 acesse meu <a href="https://portfolio-pulpor.vercel.app/">portifólio</a> </h1>
+<h1> 👉 acesse meu <a href="https://portfolio-pulpor.vercel.app/">portifólio</a> </h1>
 <br>
- 🌱  estudando análise de dados e desenvolvimento de softwares<br>
- 📫      contate-me no e-mail: 'pulppor@hotmail.com' or 'pulppor@gmail.com'<br>
- 😄      pronouns: ele/dele<br>
- 🍊      fun fact: <b><font color="#DE6004">laranja</font></b> é minha cor preferida!<br>
+👨‍💻 front-end teacher for high school at senac pr<br>
+⚙️ degree in mechanical engineeringr<br>
+🎯 interest in: full stack engineer, data analyst or quality assurancer<br>
+📫 contact me at email: '<a href="mailto:pulppor@hotmail.com?subject=I have a great idea! Let's work together?" target="_blank">pulppor@hotmail.com</a>' or '<a href="mailto:pulppor@gmail.com?subject=I have a great idea! Let's work together?" target="_blank">pulppor@gmail.com</a>'<br>
+
 
 <br>
 <!-- <div align="center">
@@ -19,7 +18,7 @@
 
 
 
-[![Pulpor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pulpor&bg_color=D9BEA7&color=BF6E3F&line=D9985F&point=BF6E3F&area=true&hide_border=true)](https://github.com/pulpor/github-readme-activity-graph)
+[![Pulpor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pulpor&bg_color=0d1117&color=BF6E3F&line=D9985F&point=BF6E3F&area=true&hide_border=true)](https://github.com/pulpor/github-readme-activity-graph)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,8 +37,5 @@
   <a href="https://instagram.com/pulppor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/43996916620" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://t.me/pulppor" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/pulpor/Pulpor/blob/output/github-contribution-grid-snake.svg)
-
  
 </div>
