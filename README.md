@@ -3,10 +3,11 @@
 
 <h1> 👉 acesse meu <a href="https://portfolio-pulpor.vercel.app/">portifólio</a> </h1>
 <br>
-👨‍💻 front-end teacher for high school at senac pr<br>
-⚙️ degree in mechanical engineeringr<br>
-🎯 interest in: full stack engineer, data analyst or quality assurancer<br>
-📫 contact me at email: '<a href="mailto:pulppor@hotmail.com?subject=I have a great idea! Let's work together?" target="_blank">pulppor@hotmail.com</a>' or '<a href="mailto:pulppor@gmail.com?subject=I have a great idea! Let's work together?" target="_blank">pulppor@gmail.com</a>'<br>
+👨‍💻 front-end <b>teacher</b> for high school at senac pr<br>
+⚙️ bachelor's degree in mechanical <b>engineering</b> <br>
+🎯 <b>interest</b> in full stack engineer, data analyst or quality assurancer<br>
+🎮 hobbies in design, finance, tutoring, music and literature <br>
+📫 contact me at <b>email</b>: '<a href="mailto:pulppor@hotmail.com?subject=I have a great idea! Let's work together?" target="_blank">pulppor@hotmail.com</a>' or '<a href="mailto:pulppor@gmail.com?subject=I have a great idea! Let's work together?" target="_blank">pulppor@gmail.com</a>'<br>
 
 
 <br>
