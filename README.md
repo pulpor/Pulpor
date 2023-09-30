@@ -1,7 +1,6 @@
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6f0&size=34&center=true&vCenter=true&width=1000&lines=olá+mundo!+eu+sou+leonardo+pulpor.+👋;procuro+uma+vaga+em+front-end+;ou+em+análise+de+dados.+🎲)](https://git.io/typing-svg) -->
+<h1> 👉 access my <a href="https://portfolio-pulpor.vercel.app/">portifolio</a></h1> 
 
-<h1> 👉 acesse meu <a href="https://portfolio-pulpor.vercel.app/">portifólio</a> </h1>
 <br>
 👨‍💻 front-end <b>teacher</b> for high school at senac pr<br>
 ⚙️ bachelor's degree in mechanical <b>engineering</b> <br>
@@ -9,15 +8,7 @@
 🎮 hobbies in design, finance, tutoring, music and literature <br>
 📫 contact me at <b>email</b>: '<a href="mailto:pulppor@hotmail.com?subject=I have a great idea! Let's work together?" target="_blank">pulppor@hotmail.com</a>' or '<a href="mailto:pulppor@gmail.com?subject=I have a great idea! Let's work together?" target="_blank">pulppor@gmail.com</a>'<br>
 
-
 <br>
-<!-- <div align="center">
-  <a href="https://github.com/pulpor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pulpor&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulpor&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>  -->
-
-
 
 [![Pulpor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pulpor&bg_color=0d1117&color=BF6E3F&line=D9985F&point=BF6E3F&area=true&hide_border=true)](https://github.com/pulpor/github-readme-activity-graph)
 
@@ -26,8 +17,6 @@
     <img src="https://skills.thijs.gg/icons?i=html,css,scss,tailwindcss,styledcomponents,bootstrap,js,ts,react,redux,jest,nodejs,python,vite,docker,mysql,git,figma&theme=dark&perline=9" />
   </a>
 </p>
-
-
 
 ##
 
