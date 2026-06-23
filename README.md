@@ -10,23 +10,22 @@
 
 I'm a web development professor at SENAC PR and a developer since 2013.
 
-My career path has taken me through Mechanical Engineering, software development, and education, <br>
+My career path has taken me through Mechanical Engineering, software development, and education,
 areas that ultimately converged: <br>
 solving complex problems and explaining difficult ideas in a simple way.
 
-Today I primarily work with React, TypeScript, Node.js, and databases, <br>
+Today I primarily work with React, TypeScript, Node.js, and databases,
 as well as developing projects focused on education, automation, and artificial intelligence.
 
 Outside of code, I enjoy studying the financial market, data analysis, music, and literature.
-
-When I'm not building projects or teaching, you'll probably find me playing games, <br>
+When I'm not building projects or teaching, you'll probably find me playing games, 
 studying dashboards, playing music, or reading.
 
-I'm driven by logic, design, and the art of solving complex problems.
+<u>I'm driven by logic</u>, design, and the art of solving complex problems.
 
-- 🎯 Current Focus: Building scalable web applications and pursuing international opportunities in Software Engineering, Data Analysis, and AI-based solutions.
-- 🎓 Background: Mechanical Engineer, Full Stack Developer, Technical Educator, and author of an introductory and illustrated programming book.
-- 💬 Ask me about: React, TypeScript, web development, software engineering, teaching methodologies, data analysis, or finance.
+-  <b>Current Focus</b>: <br>Building scalable web applications and pursuing international opportunities in Software Engineering, Data Analysis, and AI-based solutions.
+-  <b>Background</b>: <br>Mechanical Engineer, Full Stack Developer, Technical Educator, and author of an introductory and illustrated programming book.
+-  <b>Ask me about</b>: <br>React, TypeScript, web development, software engineering, teaching methodologies, data analysis, or finance.
 
 ---
 
